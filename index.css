@@ -1,0 +1,25 @@
+header{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+}
+.menu{
+    display: flex;
+    width: 50%;
+    align-items: center;
+    justify-content: center;    
+    
+}
+.menu ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+  list-style: none;
+      gap: 2rem;
+}
+.menu ul li span:hover{
+    color: aqua;
+    cursor: pointer;
+}
