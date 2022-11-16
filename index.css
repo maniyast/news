@@ -23,3 +23,22 @@ header{
     color: aqua;
     cursor: pointer;
 }
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+.maniyast{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+}
+.maniyastt{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 60%;
+}
